@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<resources>-->
+<!--    <color name="colorPrimary">#6200EE</color>-->
+<!--    <color name="colorPrimaryDark">#3700B3</color>-->
+<!--    <color name="colorAccent">#03DAC5</color>-->
+<!--</resources>-->
+
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    #user defined colors
+    <color name="gray">#6B6B6D</color>
+    <color name="whiteback">#D6D6D6</color>
+    <color name="buop">#3A3735</color>
+    <color name="white">#FFFFFF</color>
+</resources>
