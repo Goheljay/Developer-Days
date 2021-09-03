@@ -25,6 +25,6 @@ I'm an Android developer and Fullsatck developer...
   
 ## Screenshots
 
-![App Screenshot](Counter.JPG)
+![App Screenshot](counter.JPG)
 
   
