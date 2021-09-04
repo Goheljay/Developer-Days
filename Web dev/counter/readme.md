@@ -3,7 +3,7 @@
 
 Hello Everone, I designed `Counter` Using Vanila Javascript.
 
-For Developr days.
+In Developr days.
 
 ## Demo
 
