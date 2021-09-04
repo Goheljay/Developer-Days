@@ -26,5 +26,6 @@ I'm an Android developer and Fullsatck developer...
 ## Screenshots
 
 ![App Screenshot](counter.JPG)
+![App video](counter.mp4)
 
   
