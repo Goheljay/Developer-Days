@@ -7,9 +7,13 @@ For Developr days.
 
 ## Demo
 
-Demo video of week 1 challange counter
+Demo GIF of week 1 challange counter
 
 ![App video](counter.gif)
+
+
+## Full Video
+https://drive.google.com/file/d/1cUergUehNmxNd_V2pX4CJ7vMuDdtre51/view
 
   
 ## 🚀 About Me
